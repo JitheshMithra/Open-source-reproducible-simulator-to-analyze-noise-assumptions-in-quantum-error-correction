@@ -1,4 +1,4 @@
-# Open-source-reproducible-simulator-to-analyze-noise-assumptions-in-quantum-error-correction
+# Open source reproducible simulator to analyze noise assumptions in quantum error-correction
 **Overview:**
 This project is an open‑source, reproducible, and reusable simulation tool made to analyze and simulate how noise assumptions affect the performance of quantum error correction, allowing for tweaks and slight changes if needed.
 Quantum error correction depends strongly on assumed noise models, yet many existing simulations are held to specific experiments or papers, and are not open to the public and far-reaching educated use. This tool gives a simple and clear framework for measuring and simulating how error correction performance changes as noise changes and varies.
